@@ -1,7 +1,7 @@
 <?php
 include("session.php");
 
-// Include config file and twitter PHP Library by Abraham Williams (abraham@abrah.am)
+//@author: Michael Butchko
 include_once("config.php");
 include_once("inc/twitteroauth.php");
 ?>
